@@ -1,0 +1,15 @@
+Classroom: The central hub where teachers engage students, featuring desks arranged neatly and a blackboard or whiteboard for instruction.
+Teacher's Lounge: A designated space for teachers to relax, unwind, and interact with colleagues during breaks.
+Office: A private workspace where teachers can prepare lessons, grade assignments, and handle administrative tasks.
+Library: A resourceful environment filled with books, references, and study areas for research and independent reading.
+Staffroom: A communal area where teachers and staff gather, share ideas, and engage in discussions.
+Faculty Meeting Room: A dedicated space where teachers convene for meetings, collaboration, and professional development.
+Computer Lab: A specialized room equipped with computers and technology resources for teachers to conduct computer-based lessons.
+Science Laboratory: A controlled setting equipped with scientific apparatus for hands-on experiments and demonstrations.
+Art Studio: A creative space stocked with art supplies, tools, and equipment for artistic exploration and projects.
+Auditorium: A large venue utilized for school assemblies, performances, and presentations.
+Outdoor Playground: A designated area where teachers supervise students during outdoor activities and recess.
+Cafeteria: A common space where teachers monitor lunchtime and socialize with colleagues and students.
+Administrative Office: A central hub for school administration, including principal's office, reception, and administrative staff.
+Faculty Workroom: A designated area where teachers can collaborate, make copies, and access shared resources.
+Professional Development Center: A dedicated facility where teachers attend workshops, training sessions, and seminars to enhance their skills and knowledge.

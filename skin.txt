@@ -1,0 +1,8 @@
+black
+dark
+brown
+tanned
+pale
+white
+golden
+porcelian
